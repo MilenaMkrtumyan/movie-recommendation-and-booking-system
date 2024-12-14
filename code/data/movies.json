@@ -1,0 +1,804 @@
+{
+    "movies": [
+        {
+            "Movie_id": "M001",
+            "Title": "The Last Horizon",
+            "Genre": "Fantasy",
+            "Director": "Denis Villeneuve",
+            "Rating": 8.0,
+            "Release_date": "2003-06-07"
+        },
+        {
+            "Movie_id": "M002",
+            "Title": "Whispers in the Dark",
+            "Genre": "Sci-Fi",
+            "Director": "Martin Scorsese",
+            "Rating": 4.1,
+            "Release_date": "2003-05-02"
+        },
+        {
+            "Movie_id": "M003",
+            "Title": "Chasing the Stars",
+            "Genre": "Musical",
+            "Director": "Quentin Tarantino",
+            "Rating": 5.7,
+            "Release_date": "1989-01-09"
+        },
+        {
+            "Movie_id": "M004",
+            "Title": "A Love Beyond Time",
+            "Genre": "Fantasy",
+            "Director": "Martin Scorsese",
+            "Rating": 8.6,
+            "Release_date": "2018-01-27"
+        },
+        {
+            "Movie_id": "M005",
+            "Title": "Echoes of Eternity",
+            "Genre": "Fantasy",
+            "Director": "Quentin Tarantino",
+            "Rating": 3.1,
+            "Release_date": "2010-12-12"
+        },
+        {
+            "Movie_id": "M006",
+            "Title": "The Forgotten Dream",
+            "Genre": "Romance",
+            "Director": "Quentin Tarantino",
+            "Rating": 6.9,
+            "Release_date": "2008-04-26"
+        },
+        {
+            "Movie_id": "M007",
+            "Title": "Into the Unknown",
+            "Genre": "Romance",
+            "Director": "Denis Villeneuve",
+            "Rating": 6.9,
+            "Release_date": "2005-08-20"
+        },
+        {
+            "Movie_id": "M008",
+            "Title": "The Heart of the Forest",
+            "Genre": "Musical",
+            "Director": "Quentin Tarantino",
+            "Rating": 4.1,
+            "Release_date": "1996-06-08"
+        },
+        {
+            "Movie_id": "M009",
+            "Title": "City of Lights",
+            "Genre": "Sci-Fi",
+            "Director": "Denis Villeneuve",
+            "Rating": 5.1,
+            "Release_date": "1980-03-03"
+        },
+        {
+            "Movie_id": "M010",
+            "Title": "The Silent Witness",
+            "Genre": "Sci-Fi",
+            "Director": "Quentin Tarantino",
+            "Rating": 7.9,
+            "Release_date": "2020-07-17"
+        },
+        {
+            "Movie_id": "M011",
+            "Title": "Melody of Life",
+            "Genre": "Romance",
+            "Director": "James Cameron",
+            "Rating": 7.5,
+            "Release_date": "2019-07-09"
+        },
+        {
+            "Movie_id": "M012",
+            "Title": "Rise of the Titans",
+            "Genre": "Documentary",
+            "Director": "Sofia Coppola",
+            "Rating": 7.4,
+            "Release_date": "1980-10-24"
+        },
+        {
+            "Movie_id": "M013",
+            "Title": "Shadows of War",
+            "Genre": "Romance",
+            "Director": "Christopher Nolan",
+            "Rating": 2.3,
+            "Release_date": "1982-12-18"
+        },
+        {
+            "Movie_id": "M014",
+            "Title": "The Golden Path",
+            "Genre": "Fantasy",
+            "Director": "Quentin Tarantino",
+            "Rating": 3.9,
+            "Release_date": "1999-10-11"
+        },
+        {
+            "Movie_id": "M015",
+            "Title": "Beyond the Edge",
+            "Genre": "Sci-Fi",
+            "Director": "Greta Gerwig",
+            "Rating": 3.7,
+            "Release_date": "2007-12-04"
+        },
+        {
+            "Movie_id": "M016",
+            "Title": "The Final Frontier",
+            "Genre": "Romance",
+            "Director": "Wes Anderson",
+            "Rating": 3.8,
+            "Release_date": "2005-08-18"
+        },
+        {
+            "Movie_id": "M017",
+            "Title": "Harmony Lost",
+            "Genre": "Romance",
+            "Director": "James Cameron",
+            "Rating": 6.5,
+            "Release_date": "1989-11-13"
+        },
+        {
+            "Movie_id": "M018",
+            "Title": "Dancing Through Time",
+            "Genre": "Musical",
+            "Director": "Bong Joon-ho",
+            "Rating": 4.6,
+            "Release_date": "2023-03-27"
+        },
+        {
+            "Movie_id": "M019",
+            "Title": "The Maker's Curse",
+            "Genre": "Documentary",
+            "Director": "Denis Villeneuve",
+            "Rating": 8.4,
+            "Release_date": "1998-02-10"
+        },
+        {
+            "Movie_id": "M020",
+            "Title": "The Silver Lining",
+            "Genre": "Sci-Fi",
+            "Director": "Denis Villeneuve",
+            "Rating": 5.2,
+            "Release_date": "1996-11-11"
+        },
+        {
+            "Movie_id": "M021",
+            "Title": "Winds of Change",
+            "Genre": "Musical",
+            "Director": "Quentin Tarantino",
+            "Rating": 5.0,
+            "Release_date": "1993-04-13"
+        },
+        {
+            "Movie_id": "M022",
+            "Title": "The Eternal Flame",
+            "Genre": "Sci-Fi",
+            "Director": "Steven Spielberg",
+            "Rating": 2.6,
+            "Release_date": "1994-05-16"
+        },
+        {
+            "Movie_id": "M023",
+            "Title": "Voices of the Past",
+            "Genre": "Musical",
+            "Director": "Wes Anderson",
+            "Rating": 9.0,
+            "Release_date": "1988-08-27"
+        },
+        {
+            "Movie_id": "M024",
+            "Title": "The Crimson Moon",
+            "Genre": "Sci-Fi",
+            "Director": "Christopher Nolan",
+            "Rating": 8.1,
+            "Release_date": "2010-08-04"
+        },
+        {
+            "Movie_id": "M025",
+            "Title": "The Glass Garden",
+            "Genre": "Documentary",
+            "Director": "Christopher Nolan",
+            "Rating": 1.6,
+            "Release_date": "1983-06-08"
+        },
+        {
+            "Movie_id": "M026",
+            "Title": "Legacy of the Brave",
+            "Genre": "Romance",
+            "Director": "Quentin Tarantino",
+            "Rating": 7.4,
+            "Release_date": "1984-11-25"
+        },
+        {
+            "Movie_id": "M027",
+            "Title": "Tides of Fate",
+            "Genre": "Documentary",
+            "Director": "Quentin Tarantino",
+            "Rating": 5.7,
+            "Release_date": "2015-07-28"
+        },
+        {
+            "Movie_id": "M028",
+            "Title": "A Symphony of Colors",
+            "Genre": "Sci-Fi",
+            "Director": "Quentin Tarantino",
+            "Rating": 7.4,
+            "Release_date": "2003-12-20"
+        },
+        {
+            "Movie_id": "M029",
+            "Title": "The Broken Crown",
+            "Genre": "Romance",
+            "Director": "James Cameron",
+            "Rating": 1.5,
+            "Release_date": "2024-10-10"
+        },
+        {
+            "Movie_id": "M030",
+            "Title": "The Sapphire Key",
+            "Genre": "Musical",
+            "Director": "Sofia Coppola",
+            "Rating": 5.6,
+            "Release_date": "1981-11-11"
+        },
+        {
+            "Movie_id": "M031",
+            "Title": "The Hidden Valley",
+            "Genre": "Documentary",
+            "Director": "Denis Villeneuve",
+            "Rating": 6.9,
+            "Release_date": "1995-12-26"
+        },
+        {
+            "Movie_id": "M032",
+            "Title": "Under the Blood Moon",
+            "Genre": "Fantasy",
+            "Director": "Christopher Nolan",
+            "Rating": 2.5,
+            "Release_date": "1988-05-28"
+        },
+        {
+            "Movie_id": "M033",
+            "Title": "The King's Gambit",
+            "Genre": "Sci-Fi",
+            "Director": "James Cameron",
+            "Rating": 4.8,
+            "Release_date": "2004-06-09"
+        },
+        {
+            "Movie_id": "M034",
+            "Title": "Starlight Serenade",
+            "Genre": "Musical",
+            "Director": "Bong Joon-ho",
+            "Rating": 1.5,
+            "Release_date": "1983-09-13"
+        },
+        {
+            "Movie_id": "M035",
+            "Title": "Threads of Destiny",
+            "Genre": "Musical",
+            "Director": "Steven Spielberg",
+            "Rating": 7.1,
+            "Release_date": "2007-09-02"
+        },
+        {
+            "Movie_id": "M036",
+            "Title": "The Phantom's Masquerade",
+            "Genre": "Romance",
+            "Director": "Denis Villeneuve",
+            "Rating": 9.4,
+            "Release_date": "1995-12-14"
+        },
+        {
+            "Movie_id": "M037",
+            "Title": "Secrets of the Sea",
+            "Genre": "Sci-Fi",
+            "Director": "Steven Spielberg",
+            "Rating": 4.3,
+            "Release_date": "1983-10-27"
+        },
+        {
+            "Movie_id": "M038",
+            "Title": "The Iron Throne",
+            "Genre": "Romance",
+            "Director": "Steven Spielberg",
+            "Rating": 8.5,
+            "Release_date": "2006-07-08"
+        },
+        {
+            "Movie_id": "M039",
+            "Title": "The Enchanted Carousel",
+            "Genre": "Musical",
+            "Director": "Wes Anderson",
+            "Rating": 7.1,
+            "Release_date": "2007-12-12"
+        },
+        {
+            "Movie_id": "M040",
+            "Title": "The Final Act",
+            "Genre": "Sci-Fi",
+            "Director": "James Cameron",
+            "Rating": 6.0,
+            "Release_date": "1995-12-25"
+        },
+        {
+            "Movie_id": "M041",
+            "Title": "A Tale of Two Worlds",
+            "Genre": "Documentary",
+            "Director": "Christopher Nolan",
+            "Rating": 4.8,
+            "Release_date": "1997-10-22"
+        },
+        {
+            "Movie_id": "M042",
+            "Title": "The Dragon's Whisper",
+            "Genre": "Musical",
+            "Director": "James Cameron",
+            "Rating": 7.8,
+            "Release_date": "1981-12-18"
+        },
+        {
+            "Movie_id": "M043",
+            "Title": "The Ivory Tower",
+            "Genre": "Documentary",
+            "Director": "Martin Scorsese",
+            "Rating": 2.6,
+            "Release_date": "2006-07-15"
+        },
+        {
+            "Movie_id": "M044",
+            "Title": "The Timekeeper's Dilemma",
+            "Genre": "Musical",
+            "Director": "James Cameron",
+            "Rating": 7.8,
+            "Release_date": "2024-01-13"
+        },
+        {
+            "Movie_id": "M045",
+            "Title": "The Spiral Staircase",
+            "Genre": "Musical",
+            "Director": "James Cameron",
+            "Rating": 3.1,
+            "Release_date": "1998-11-10"
+        },
+        {
+            "Movie_id": "M046",
+            "Title": "Echoes of the Heart",
+            "Genre": "Fantasy",
+            "Director": "Denis Villeneuve",
+            "Rating": 5.0,
+            "Release_date": "2021-06-15"
+        },
+        {
+            "Movie_id": "M047",
+            "Title": "The Midnight Train",
+            "Genre": "Sci-Fi",
+            "Director": "Christopher Nolan",
+            "Rating": 1.7,
+            "Release_date": "2022-03-11"
+        },
+        {
+            "Movie_id": "M048",
+            "Title": "Fires of the Fallen",
+            "Genre": "Fantasy",
+            "Director": "Denis Villeneuve",
+            "Rating": 1.8,
+            "Release_date": "2001-09-06"
+        },
+        {
+            "Movie_id": "M049",
+            "Title": "The Vanishing Point",
+            "Genre": "Romance",
+            "Director": "Greta Gerwig",
+            "Rating": 8.3,
+            "Release_date": "1982-06-05"
+        },
+        {
+            "Movie_id": "M050",
+            "Title": "The Wandering Soul",
+            "Genre": "Fantasy",
+            "Director": "Quentin Tarantino",
+            "Rating": 3.5,
+            "Release_date": "2015-11-04"
+        },
+        {
+            "Movie_id": "M051",
+            "Title": "The Shimmering Abyss",
+            "Genre": "Romance",
+            "Director": "James Cameron",
+            "Rating": 2.2,
+            "Release_date": "2016-01-22"
+        },
+        {
+            "Movie_id": "M052",
+            "Title": "The Clockwork City",
+            "Genre": "Musical",
+            "Director": "Bong Joon-ho",
+            "Rating": 9.7,
+            "Release_date": "1983-11-06"
+        },
+        {
+            "Movie_id": "M053",
+            "Title": "The Alchemist's Apprentice",
+            "Genre": "Romance",
+            "Director": "Denis Villeneuve",
+            "Rating": 5.4,
+            "Release_date": "2017-10-02"
+        },
+        {
+            "Movie_id": "M054",
+            "Title": "The Starless Sky",
+            "Genre": "Musical",
+            "Director": "Martin Scorsese",
+            "Rating": 8.4,
+            "Release_date": "2018-11-18"
+        },
+        {
+            "Movie_id": "M055",
+            "Title": "The Painted Veil",
+            "Genre": "Musical",
+            "Director": "Wes Anderson",
+            "Rating": 5.7,
+            "Release_date": "2019-01-14"
+        },
+        {
+            "Movie_id": "M056",
+            "Title": "The Shadow's Edge",
+            "Genre": "Documentary",
+            "Director": "Denis Villeneuve",
+            "Rating": 2.1,
+            "Release_date": "2003-10-13"
+        },
+        {
+            "Movie_id": "M057",
+            "Title": "The Dreamcatcher",
+            "Genre": "Sci-Fi",
+            "Director": "James Cameron",
+            "Rating": 6.2,
+            "Release_date": "1999-01-04"
+        },
+        {
+            "Movie_id": "M058",
+            "Title": "Whispers of the Sea",
+            "Genre": "Musical",
+            "Director": "Wes Anderson",
+            "Rating": 4.0,
+            "Release_date": "2006-07-10"
+        },
+        {
+            "Movie_id": "M059",
+            "Title": "The Forgotten Tale",
+            "Genre": "Fantasy",
+            "Director": "Greta Gerwig",
+            "Rating": 7.0,
+            "Release_date": "2021-06-16"
+        },
+        {
+            "Movie_id": "M060",
+            "Title": "The Crystal Chord",
+            "Genre": "Sci-Fi",
+            "Director": "Greta Gerwig",
+            "Rating": 9.1,
+            "Release_date": "2007-11-16"
+        },
+        {
+            "Movie_id": "M061",
+            "Title": "The Emerald Cavern",
+            "Genre": "Romance",
+            "Director": "Quentin Tarantino",
+            "Rating": 6.8,
+            "Release_date": "1996-09-09"
+        },
+        {
+            "Movie_id": "M062",
+            "Title": "The Silent Spring",
+            "Genre": "Musical",
+            "Director": "Denis Villeneuve",
+            "Rating": 7.8,
+            "Release_date": "2023-11-27"
+        },
+        {
+            "Movie_id": "M063",
+            "Title": "The Golden Hour",
+            "Genre": "Musical",
+            "Director": "Quentin Tarantino",
+            "Rating": 9.7,
+            "Release_date": "2010-11-04"
+        },
+        {
+            "Movie_id": "M064",
+            "Title": "The Secret Garden",
+            "Genre": "Romance",
+            "Director": "Christopher Nolan",
+            "Rating": 3.5,
+            "Release_date": "2007-05-17"
+        },
+        {
+            "Movie_id": "M065",
+            "Title": "The Winter's Tale",
+            "Genre": "Musical",
+            "Director": "Christopher Nolan",
+            "Rating": 8.2,
+            "Release_date": "2018-12-05"
+        },
+        {
+            "Movie_id": "M066",
+            "Title": "The Enchanted Forest",
+            "Genre": "Documentary",
+            "Director": "Bong Joon-ho",
+            "Rating": 8.0,
+            "Release_date": "1989-01-07"
+        },
+        {
+            "Movie_id": "M067",
+            "Title": "The Clockmaker's Daughter",
+            "Genre": "Musical",
+            "Director": "Greta Gerwig",
+            "Rating": 3.1,
+            "Release_date": "2007-12-05"
+        },
+        {
+            "Movie_id": "M068",
+            "Title": "The Sapphire Dream",
+            "Genre": "Fantasy",
+            "Director": "Greta Gerwig",
+            "Rating": 6.8,
+            "Release_date": "1993-08-25"
+        },
+        {
+            "Movie_id": "M069",
+            "Title": "The Dancer's Shadow",
+            "Genre": "Fantasy",
+            "Director": "Greta Gerwig",
+            "Rating": 7.1,
+            "Release_date": "2016-10-03"
+        },
+        {
+            "Movie_id": "M070",
+            "Title": "The Burning Sands",
+            "Genre": "Musical",
+            "Director": "James Cameron",
+            "Rating": 3.8,
+            "Release_date": "1994-10-21"
+        },
+        {
+            "Movie_id": "M071",
+            "Title": "The Glass Palace",
+            "Genre": "Musical",
+            "Director": "Christopher Nolan",
+            "Rating": 7.0,
+            "Release_date": "2023-04-04"
+        },
+        {
+            "Movie_id": "M072",
+            "Title": "The Eternal Quest",
+            "Genre": "Fantasy",
+            "Director": "Sofia Coppola",
+            "Rating": 8.1,
+            "Release_date": "2006-04-28"
+        },
+        {
+            "Movie_id": "M073",
+            "Title": "The Darkened Sky",
+            "Genre": "Sci-Fi",
+            "Director": "Christopher Nolan",
+            "Rating": 5.6,
+            "Release_date": "2020-01-06"
+        },
+        {
+            "Movie_id": "M074",
+            "Title": "The Hollow Crown",
+            "Genre": "Documentary",
+            "Director": "Sofia Coppola",
+            "Rating": 5.1,
+            "Release_date": "1981-04-08"
+        },
+        {
+            "Movie_id": "M075",
+            "Title": "The Serpent's Tooth",
+            "Genre": "Documentary",
+            "Director": "James Cameron",
+            "Rating": 9.7,
+            "Release_date": "1996-06-08"
+        },
+        {
+            "Movie_id": "M076",
+            "Title": "The Moonstone",
+            "Genre": "Documentary",
+            "Director": "Christopher Nolan",
+            "Rating": 3.1,
+            "Release_date": "2002-01-02"
+        },
+        {
+            "Movie_id": "M077",
+            "Title": "The Wishing Well",
+            "Genre": "Romance",
+            "Director": "Steven Spielberg",
+            "Rating": 7.8,
+            "Release_date": "1993-05-14"
+        },
+        {
+            "Movie_id": "M078",
+            "Title": "The Sapphire Flame",
+            "Genre": "Romance",
+            "Director": "Quentin Tarantino",
+            "Rating": 1.6,
+            "Release_date": "1982-08-11"
+        },
+        {
+            "Movie_id": "M079",
+            "Title": "The Cursed Pearl",
+            "Genre": "Musical",
+            "Director": "Steven Spielberg",
+            "Rating": 6.5,
+            "Release_date": "2006-12-27"
+        },
+        {
+            "Movie_id": "M080",
+            "Title": "The Last Voyage",
+            "Genre": "Sci-Fi",
+            "Director": "Bong Joon-ho",
+            "Rating": 9.8,
+            "Release_date": "2009-01-12"
+        },
+        {
+            "Movie_id": "M081",
+            "Title": "The Crimson Tide",
+            "Genre": "Musical",
+            "Director": "Quentin Tarantino",
+            "Rating": 3.2,
+            "Release_date": "2002-02-16"
+        },
+        {
+            "Movie_id": "M082",
+            "Title": "The Forgotten Kingdom",
+            "Genre": "Romance",
+            "Director": "Denis Villeneuve",
+            "Rating": 4.0,
+            "Release_date": "1985-11-16"
+        },
+        {
+            "Movie_id": "M083",
+            "Title": "The Mystic's Journey",
+            "Genre": "Documentary",
+            "Director": "James Cameron",
+            "Rating": 8.8,
+            "Release_date": "2020-04-01"
+        },
+        {
+            "Movie_id": "M084",
+            "Title": "The Silver Fox",
+            "Genre": "Musical",
+            "Director": "Steven Spielberg",
+            "Rating": 4.0,
+            "Release_date": "2006-12-25"
+        },
+        {
+            "Movie_id": "M085",
+            "Title": "The Phantom Ship",
+            "Genre": "Romance",
+            "Director": "Wes Anderson",
+            "Rating": 3.9,
+            "Release_date": "1990-02-18"
+        },
+        {
+            "Movie_id": "M086",
+            "Title": "The Final Song",
+            "Genre": "Sci-Fi",
+            "Director": "Quentin Tarantino",
+            "Rating": 2.0,
+            "Release_date": "1999-08-06"
+        },
+        {
+            "Movie_id": "M087",
+            "Title": "The Lost City",
+            "Genre": "Fantasy",
+            "Director": "Quentin Tarantino",
+            "Rating": 2.9,
+            "Release_date": "1995-09-19"
+        },
+        {
+            "Movie_id": "M088",
+            "Title": "The Golden Feather",
+            "Genre": "Romance",
+            "Director": "Sofia Coppola",
+            "Rating": 8.5,
+            "Release_date": "2017-06-02"
+        },
+        {
+            "Movie_id": "M089",
+            "Title": "The Shattered Mirror",
+            "Genre": "Fantasy",
+            "Director": "James Cameron",
+            "Rating": 4.5,
+            "Release_date": "1996-02-24"
+        },
+        {
+            "Movie_id": "M090",
+            "Title": "The Rising Sun",
+            "Genre": "Fantasy",
+            "Director": "Greta Gerwig",
+            "Rating": 3.1,
+            "Release_date": "1981-06-06"
+        },
+        {
+            "Movie_id": "M091",
+            "Title": "The Stolen Crown",
+            "Genre": "Musical",
+            "Director": "Bong Joon-ho",
+            "Rating": 7.6,
+            "Release_date": "1984-03-15"
+        },
+        {
+            "Movie_id": "M092",
+            "Title": "The Wandering Star",
+            "Genre": "Musical",
+            "Director": "Wes Anderson",
+            "Rating": 6.2,
+            "Release_date": "2020-10-06"
+        },
+        {
+            "Movie_id": "M093",
+            "Title": "The Broken Compass",
+            "Genre": "Documentary",
+            "Director": "Bong Joon-ho",
+            "Rating": 3.0,
+            "Release_date": "1998-09-03"
+        },
+        {
+            "Movie_id": "M094",
+            "Title": "The Golden Mask",
+            "Genre": "Musical",
+            "Director": "Bong Joon-ho",
+            "Rating": 9.8,
+            "Release_date": "1988-11-02"
+        },
+        {
+            "Movie_id": "M095",
+            "Title": "The Eternal Light",
+            "Genre": "Fantasy",
+            "Director": "Steven Spielberg",
+            "Rating": 2.7,
+            "Release_date": "2011-05-17"
+        },
+	{
+		"Movie_id": "M096",
+		"Title": "Supercat vs. The Laser Lizard",
+		"Genre": "Sci-Fi",
+		"Director": "Bobby Toon",
+		"Rating": 7.3,
+		"Release_date": "2023-05-12"
+	},
+	{
+		"Movie_id": "M097",
+		"Title": "The Amazing Adventures of Captain Spaghetti",
+		"Genre": "Fantasy",
+		"Director": "Lilly Cartoon",
+		"Rating": 6.8,
+		"Release_date": "2022-09-19"
+	},
+	{
+		"Movie_id": "M098",
+		"Title": "Professor Pickles and the Giant Mustard",
+		"Genre": "Sci-Fi",
+		"Director": "Timothy Joke",
+		"Rating": 7.5,
+		"Release_date": "2024-01-02"
+	},
+	{
+		"Movie_id": "M099",
+		"Title": "The League of Extraordinary Pigeons",
+		"Genre": "Fantasy",
+		"Director": "Samantha Quirky",
+		"Rating": 6.9,
+		"Release_date": "2021-11-10"
+	},
+	{
+		"Movie_id": "M100",
+		"Title": "Bananaman: The Peel of Justice",
+		"Genre": "Musical",
+		"Director": "Chuck Fun",
+		"Rating": 7.8,
+		"Release_date": "2023-08-14"
+	}
+]
+}
